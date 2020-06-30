@@ -25,10 +25,12 @@ members:
   - Flora Kennedy McConnell
   - Joana Pinto
   - Moss Zhao
-  - Charlotte Buchanan
   - Cassanda Gould Van Praag
+  - Maria-Eleni Dounavi
+  - Andre Paschoal
+  - Diego Pineda-Ordóñez
 status:
-  - Finalising 2 year Roadmap
+  - Working towards Milestone 1
 links:
   - website: https://drive.google.com/drive/folders/1jygYkrrzgznMfFGqVL9Qjvpbbvmkj55q
     description: |
