@@ -25,10 +25,17 @@ members:
   - Flora Kennedy McConnell
   - Joana Pinto
   - Moss Zhao
-  - Charlotte Buchanan
-  - Cassanda Gould Van Praag
+  - Cassandra Gould Van Praag
+  - Pieter Vandemaele
+  - Joseph Woods
+  - Maria-Eleni Dounavi
+  - Andre Paschoal
+  - Diego Pineda-Ordóñez
+  
+   
 status:
-  - Finalising 2 year Roadmap
+  - Finalising Challenge Design
+  
 links:
   - website: https://drive.google.com/drive/folders/1jygYkrrzgznMfFGqVL9Qjvpbbvmkj55q
     description: |
@@ -40,3 +47,5 @@ links:
 
 {% include taskforce_content.md %}
 <!--- Please include your task force contents below, free formatting -->
+
+Challenge Design Document: https://docs.google.com/document/d/1EtG5TVZotnvXSufboh707lAIq1imPg2CTVaMnIN01iA/edit?usp=sharing
