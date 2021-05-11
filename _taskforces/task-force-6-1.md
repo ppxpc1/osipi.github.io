@@ -36,7 +36,7 @@ members:
   
   
 status:
-  - Finalising Challenge Design
+  - The challenge will be launching as an official ISMRM Challenge as part of the 2021 Annual meeting
 links:
   - website: https://drive.google.com/drive/folders/1jygYkrrzgznMfFGqVL9Qjvpbbvmkj55q
     description: |
@@ -51,3 +51,4 @@ links:
 
 OSIPI ASL Challenge:
 - [Challenge Overview](https://docs.google.com/document/d/1EtG5TVZotnvXSufboh707lAIq1imPg2CTVaMnIN01iA/edit?usp=sharing)
+- [Challenge Manual](https://drive.google.com/file/d/1BDmiK5YSMlVWbzxv7jecjgbxVb0OnAyl/view?usp=sharing)
